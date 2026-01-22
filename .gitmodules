@@ -1,0 +1,3 @@
+[submodule "lec05/aframe-ar-example"]
+	path = lec05/aframe-ar-example
+	url = git@github.com:madsbyriel/aframe-ar-example.git
